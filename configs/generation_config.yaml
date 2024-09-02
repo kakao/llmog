@@ -1,0 +1,24 @@
+# Hyperparameters for text generation task (e.g. summarization, abstractive QA)
+# See also : https://huggingface.co/docs/transformers/v4.25.1/en/main_classes/text_generation#transformers.GenerationMixin.generate
+generation:
+  max_new_tokens: 64
+  do_sample: False
+  num_beams: 1
+  num_beam_groups: 1
+  temperature: 
+  penalty_alpha: 
+  top_k: 
+  top_p: 
+  typical_p: 
+  repetition_penalty: 
+  bad_words_ids: 
+  length_penalty: 
+  no_repeat_ngram_size: 
+  encoder_no_repeat_ngram_size: 
+  decoder_start_token_id: 
+  diversity_penalty: 
+  prefix_allowed_tokens_fn: 
+  logits_processor: 
+  renormalize_logits: 
+  stopping_sequences:
+    - "<extra_id_1>"
