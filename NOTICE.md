@@ -18,7 +18,9 @@ Apache License 2.0
 
 https://github.com/huggingface/datasets
 
-Google Inc. HuggingFace Inc.
+Google Inc.
+
+HuggingFace Inc.
 
 Apache License 2.0
 
@@ -26,7 +28,9 @@ Apache License 2.0
 
 https://github.com/huggingface/evaluate
 
-Google Inc. HuggingFace Inc.
+Google Inc.
+
+HuggingFace Inc.
 
 Apache License 2.0
 
@@ -34,7 +38,9 @@ Apache License 2.0
 
 https://github.com/facebookresearch/fid
 
-Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
+Copyright (c) Facebook, Inc. and its affiliates.
+
+All rights reserved.
 
 Creative Commons Attribution Non Commercial 4.0 International
 
@@ -66,7 +72,9 @@ BSD 3-Clause "New" or "Revised" License
 
 https://github.com/omry/omegaconf
 
-Copyright (c) 2018, Omry Yadan All rights reserved.
+Copyright (c) 2018, Omry Yadan
+
+All rights reserved.
 
 BSD 3-Clause "New" or "Revised" License
 
@@ -106,7 +114,11 @@ MIT License
 
 https://github.com/tqdm/tqdm
 
-Copyright 2015-2018 Casper da Costa-Luis. Copyright 2016 \[PR \#96\] on behalf of Google Inc. Copyright 2013 Noam Yorav-Raphael, original author.
+Copyright 2015-2018 Casper da Costa-Luis.
+
+Copyright 2016 \[PR \#96\] on behalf of Google Inc.
+
+Copyright 2013 Noam Yorav-Raphael, original author.
 
 Mozilla Public License 2.0
 
